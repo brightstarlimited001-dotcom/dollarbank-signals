@@ -1,10 +1,8 @@
 {
   "signals": [
-    { "asset": "BTC/USDT", "signal": "BUY", "time": "2025-09-20T12:30:00Z" },
-    { "asset": "ETH/USDT", "signal": "SELL", "time": "2025-09-20T12:31:00Z" },
-    { "asset": "BNB/USDT", "signal": "BUY", "time": "2025-09-20T12:32:00Z" },
-    { "asset": "EUR/USD", "signal": "SELL", "time": "2025-09-20T12:33:00Z" },
-    { "asset": "GBP/USD", "signal": "BUY", "time": "2025-09-20T12:34:00Z" }
+    { "asset": "BTC/USDT", "signal": "BUY", "price": "55382.11", "time": "2025-09-25T12:00:00Z" },
+    { "asset": "ETH/USDT", "signal": "SELL", "price": "4095.93", "time": "2025-09-25T12:00:00Z" },
+    { "asset": "BNB/USDT", "signal": "BUY", "price": "1014.58", "time": "2025-09-25T12:00:00Z" }
   ]
 }
 
